@@ -1,0 +1,45 @@
+{
+	"analytics-uuid": "caa10ba1-66d8-48e2-98dc-154feb2a38f4",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1674108427823
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101728812545678731214",
+		"email": "bhandary0010@gmail.com",
+		"email_verified": true,
+		"at_hash": "UiIZAfs41U9RT8-BNfzWkA",
+		"iat": 1674108851,
+		"exp": 1674112451
+	},
+	"tokens": {
+		"expires_at": 1674119084942,
+		"refresh_token": "1//06CzQ4uAKJ7SGCgYIARAAGAYSNwF-L9Ir11vR-hxJCJH2wZUAejqHc3iIytmWiw3PH7NxkkOBI2XO2ieYLzi1KVI6YXQkHfBIH84",
+		"scopes": [],
+		"access_token": "ya29.a0AX9GBdWkjgTkm1NZmGDWxUw1wIe8Nlb35yxS0ELt9nJhJDJMwBRhLYhh7CX5LtkNbUv15AvEK_GuO0XM-Br7p10Ld5Zz3WcKFEHgGlBJaHBQebxXSokmQRMGbdJUAqYSM-S3bTgrlKUjOPi_M-LEV4_5CKOOHDupl7Y6aCgYKAa0SAQASFQHUCsbCiowYkiQEydOKi-hp5PZd8Q0171",
+		"expires_in": 3599,
+		"scope": "openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQzN2FhNTA0MzgxMjkzN2ZlNDM5NjBjYTNjZjBlMjI4NGI2ZmMzNGQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNzI4ODEyNTQ1Njc4NzMxMjE0IiwiZW1haWwiOiJiaGFuZGFyeTAwMTBAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJsTG5BUmV0YXlubnBJWF9hZG94NkFnIiwiaWF0IjoxNjc0MTE1NDg1LCJleHAiOjE2NzQxMTkwODV9.UJR4bfbFlZVaLj2LCAGrgFIO7h8y_cg10axckY1Cgra915IOZOquM2wa6VhdRNDdHa59JtfDwmnrKUGAmoM-GBH6r7cu9KuwcsZinZk9Fk5TzCc-uiubKjCA8w4tDS-aDG-WDl-saQmONXYLYF5m9_ROsj5PGLVgyeGeQzIl3K0nRXzz30egaLwFUZh5uvsQCP7h_Ejb1O_W7hTBPQPIPwMKsKwjQvLE7NnN97IqWfyNQTpVsobG8FMRH5Xe2NMWL_e_MPp5y40ZYFC_ao7o_oyOXBcDdTqelHhD6anUpsCx1I4fCcIL_c4X5CvQlts8JV-r_dMlvS6kMpeyL6F46A"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/home/nithinbhandry_gcp": "question-bank-331c7"
+	}
+}
